@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    The properties in this file are specific to the teemo flavor of the game.
+-->
+<properties>
+    <property_list>    
+        <property name="GAME_TITLE_TEXT"            value="Teemo Crush Saga"></property>
+        <property name="WINDOW_ICON"                value="./teemocrush/TeemoIcon.png"></property>
+        
+        <!-- BIG, FULL VIEWPORT BACKGROUND SCREEN IMAGES -->
+		<property name="SPLASH_SCREEN_IMAGE_NAME"   value="./teemocrush/teemocrushsplash.png"></property>
+        <property name="SAGA_SCREEN_IMAGE_NAME"   	value="./teemocrush/sagascreen2.png"></property>
+        <property name="GAME_BACKGROUND_IMAGE_NAME" value="./teemocrush/teemogamebackground.png"></property>
+        
+		<property name="PLAY_BUTTON_IMAGE_NAME"             value="./teemocrush/playbutton.png"></property>
+		<property name="PLAY_BUTTON_MOUSE_OVER_IMAGE_NAME"  value="./teemocrush/playbuttonmouseover.png"></property>
+		<property name="QUIT_BUTTON_IMAGE_NAME"             value="./teemocrush/quitbutton.png"></property>
+		<property name="QUIT_BUTTON_MOUSE_OVER_IMAGE_NAME"  value="./teemocrush/quitbuttonmouseover.png"></property>
+		<property name="RESET_BUTTON_IMAGE_NAME"            value="./teemocrush/resetbutton.png"></property>
+		<property name="RESET_BUTTON_MOUSE_OVER_IMAGE_NAME" value="./teemocrush/resetbuttonmouseover.png"></property>
+		<property name="SCROLL_UP_BUTTON_IMAGE_NAME"        value="./teemocrush/scrollup.png"></property>
+		<property name="SCROLL_DOWN_BUTTON_IMAGE_NAME"        value="./teemocrush/scrolldown.png"></property>
+		<property name="SCROLL_UP_BUTTON_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/scrollupmouseover.png"></property>
+		<property name="SCROLL_DOWN_BUTTON_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/scrolldownmouseover.png"></property>
+		<property name="SHROOM_IMAGE_NAME"        value="./teemocrush/shroomlevel.png"></property>
+		<property name="SHROOM_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/shroomlevelmouseover.png"></property>
+			<property name="EXIT_IMAGE_NAME"        value="./teemocrush/exitgame.png"></property>
+		<property name="EXIT_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/exitgamemouseover.png"></property>
+
+		
+		
+		<property name="YELLOW_VERTICAL_IMAGE_NAME"			 value="./teemocrush/yellowspecialvertical.png"></property>
+		<property name="YELLOW_VERTICAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/yellowspecialverticalmouseover.png"></property>
+
+				<property name="RED_VERTICAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/redspecialverticalmouseover.png"></property>
+						<property name="RED_VERTICAL_IMAGE_NAME"			 value="./teemocrush/redspecialvertical.png"></property>
+				<property name="GREEN_VERTICAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/greenspecialverticalmouseover.png"></property>
+						<property name="GREEN_VERTICAL_IMAGE_NAME"			 value="./teemocrush/greenspecialvertical.png"></property>
+				<property name="BLUE_VERTICAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/bluespecialverticalmouseover.png"></property>
+						<property name="BLUE_VERTICAL_IMAGE_NAME"			 value="./teemocrush/bluespecialvertical.png"></property>
+				<property name="ORANGE_VERTICAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/orangespecialverticalmouseover.png"></property>
+						<property name="ORANGE_VERTICAL_IMAGE_NAME"			 value="./teemocrush/orangespecialvertical.png"></property>
+				<property name="PURPLE_VERTICAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/purplespecialverticalmouseover.png"></property>
+						<property name="PURPLE_VERTICAL_IMAGE_NAME"			 value="./teemocrush/purplespecialvertical.png"></property>
+
+		<property name="YELLOW_HORIZONTAL_IMAGE_NAME"			 value="./teemocrush/yellowspecialhorizontal.png"></property>
+		<property name="YELLOW_HORIZONTAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/yellowspecialhorizontalmouseover.png"></property>
+
+				<property name="RED_HORIZONTAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/redspecialhorizontalmouseover.png"></property>
+						<property name="RED_HORIZONTAL_IMAGE_NAME"			 value="./teemocrush/redspecialhorizontal.png"></property>
+				<property name="GREEN_HORIZONTAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/greenspecialhorizontalmouseover.png"></property>
+						<property name="GREEN_HORIZONTAL_IMAGE_NAME"			 value="./teemocrush/greenspecialhorizontal.png"></property>
+				<property name="BLUE_HORIZONTAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/bluespecialhorizontalmouseover.png"></property>
+						<property name="BLUE_HORIZONTAL_IMAGE_NAME"			 value="./teemocrush/bluespecialhorizontal.png"></property>
+				<property name="ORANGE_HORIZONTAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/orangespecialhorizontalmouseover.png"></property>
+						<property name="ORANGE_HORIZONTAL_IMAGE_NAME"			 value="./teemocrush/orangespecialhorizontal.png"></property>
+				<property name="PURPLE_HORIZONTAL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/purplespecialhorizontalmouseover.png"></property>
+						<property name="PURPLE_HORIZONTAL_IMAGE_NAME"			 value="./teemocrush/purplespecialhorizontal.png"></property>
+						
+<property name="YELLOW_WRAPPER_IMAGE_NAME"			 value="./teemocrush/yellowwrapper.png"></property>
+		<property name="YELLOW_WRAPPER_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/yellowwrappermouseover.png"></property>
+
+				<property name="RED_WRAPPER_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/redwrappermouseover.png"></property>
+						<property name="RED_WRAPPER_IMAGE_NAME"			 value="./teemocrush/redwrapper.png"></property>
+				<property name="GREEN_WRAPPER_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/greenwrappermouseover.png"></property>
+						<property name="GREEN_WRAPPER_IMAGE_NAME"			 value="./teemocrush/greenwrapper.png"></property>
+				<property name="BLUE_WRAPPER_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/bluewrappermouseover.png"></property>
+						<property name="BLUE_WRAPPER_IMAGE_NAME"			 value="./teemocrush/bluewrapper.png"></property>
+				<property name="ORANGE_WRAPPER_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/orangewrappermouseover.png"></property>
+						<property name="ORANGE_WRAPPER_IMAGE_NAME"			 value="./teemocrush/orangewrapper.png"></property>
+				<property name="PURPLE_WRAPPER_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/purplewrappermouseover.png"></property>
+						<property name="PURPLE_WRAPPER_IMAGE_NAME"			 value="./teemocrush/purplewrapper.png"></property>
+		<property name="BLACK_BALL_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/blackballmouseover.png"></property>
+						<property name="BLACK_BALL_IMAGE_NAME"			 value="./teemocrush/blackball.png"></property>
+
+						
+
+						
+						
+						
+		<property name="SHROOM_YELLOW_IMAGE_NAME"			 value="./teemocrush/yellowshroom.png"></property>
+		<property name="SHROOM_RED_IMAGE_NAME"			 value="./teemocrush/redshroom.png"></property>
+		<property name="SHROOM_GREEN_IMAGE_NAME"			 value="./teemocrush/greenshroom.png"></property>
+		<property name="SHROOM_PURPLE_IMAGE_NAME"			 value="./teemocrush/purpleshroom.png"></property>
+		<property name="SHROOM_BLUE_IMAGE_NAME"			 value="./teemocrush/blueshroom.png"></property>
+		<property name="SHROOM_ORANGE_IMAGE_NAME"			 value="./teemocrush/orangeshroom.png"></property>
+		<property name="SHROOM_YELLOW_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/yellowshroommouseover.png"></property>
+		<property name="SHROOM_RED_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/redshroommouseover.png"></property>
+		<property name="SHROOM_GREEN_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/greenshroommouseover.png"></property>
+		<property name="SHROOM_PURPLE_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/purpleshroommouseover.png"></property>
+		<property name="SHROOM_BLUE_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/blueshroommouseover.png"></property>
+		<property name="SHROOM_ORANGE_MOUSE_OVER_IMAGE_NAME"			 value="./teemocrush/orangeshroommouseover.png"></property>
+		
+		
+		<property name="SELECT_SCREEN_IMAGE_NAME"        value="./teemocrush/selectscreen.png"></property>
+		<property name="RETURN_IMAGE_NAME"        value="./teemocrush/return.png"></property>
+		<property name="RETURN_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/returnmouseover.png"></property>
+		<property name="PLAY_IMAGE_NAME"        value="./teemocrush/play.png"></property>
+		<property name="PLAY_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/playmouseover.png"></property>
+		<property name="SHROOM_STAR_IMAGE_NAME"        value="./teemocrush/shroomstar.png"></property>
+<property name="SHROOM_STAR_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/shroomstar.png"></property>
+<property name="QUIT_LEVEL_IMAGE_NAME"        value="./teemocrush/quitlevel.png"></property>
+<property name="QUIT_LEVEL_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/quitlevelmouseover.png"></property>
+<property name="PLAY_AGAIN_IMAGE_NAME"        value="./teemocrush/playagain.png"></property>
+<property name="PLAY_AGAIN_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/playagainmouseover.png"></property>
+<property name="RETURN_SAGA_IMAGE_NAME"        value="./teemocrush/returntosaga.png"></property>
+<property name="RETURN_SAGA_MOUSE_OVER_IMAGE_NAME"        value="./teemocrush/returntosagamouseover.png"></property>
+
+        <!-- GAME SCREEN NORTH TOOLBAR UI IMAGES -->
+        <property name="NEW_BUTTON_IMAGE_NAME"              value="./zomjong/UIZomjongNewGame.png"></property>
+        <property name="NEW_BUTTON_MOUSE_OVER_IMAGE_NAME"   value="./zomjong/UIZomjongNewGameMouseOver.png"></property>
+        <property name="BACK_BUTTON_IMAGE_NAME"             value="./zomjong/UIZomjongBack.png"></property>
+        <property name="BACK_BUTTON_MOUSE_OVER_IMAGE_NAME"  value="./zomjong/UIZomjongBackMouseOver.png"></property>
+        <property name="TILE_COUNT_IMAGE_NAME"              value="./zomjong/UIZomjongTilesCountContainer.png"></property>
+        <property name="TIME_IMAGE_NAME"                    value="./zomjong/UIZomjongTimeContainer.png"></property>
+        <property name="STATS_BUTTON_IMAGE_NAME"            value="./zomjong/UIZomjongStats.png"></property>
+        <property name="STATS_BUTTON_MOUSE_OVER_IMAGE_NAME" value="./zomjong/UIZomjongStatsMouseOver.png"></property>
+        <property name="UNDO_BUTTON_IMAGE_NAME"             value="./zomjong/UIZomjongUndo.png"></property>
+        <property name="UNDO_BUTTON_MOUSE_OVER_IMAGE_NAME"  value="./zomjong/UIZomjongUndoMouseOver.png"></property>
+        <property name="TILE_STACK_IMAGE_NAME"              value="./zomjong/UIZomjongTileStack.png"></property>
+
+        <!-- DIALOG IMAGES -->
+        <property name="WIN_DIALOG_IMAGE_NAME"             value="./teemocrush/victory.png"></property>
+        <property name="LOSS_DIALOG_IMAGE_NAME"            value="./teemocrush/defeat.png"></property>
+        <property name="STATS_DIALOG_IMAGE_NAME"           value="./teemocrush/defeat.png"></property>
+
+        <!-- BASE TILE RENDERING IMAGES -->
+        <property name="BLANK_TILE_IMAGE_NAME"              value="./zomjong/UIZomjongBlankTile.png"></property>
+        <property name="BLANK_TILE_SELECTED_IMAGE_NAME"     value="./zomjong/UIZomjongBlankTileSelected.png"></property>
+        
+        <!-- AUDIO FILES -->
+        <property name="SELECT_AUDIO_CUE"                   value="./TeemoCrush/AudioZomjongSelectTile.wav"></property>
+        <property name="MATCH_AUDIO_CUE"                    value="./TeemoCrush/AudioZomjongMatchFound.wav"></property>
+        <property name="NO_MATCH_AUDIO_CUE"                 value="./TeemoCrush/AudioZomjongTilesDoNotMatch.wav"></property>
+        <property name="BLOCKED_TILE_AUDIO_CUE"             value="./TeemoCrush/AudioZomjongBlockedTile.wav"></property>
+        <property name="UNDO_AUDIO_CUE"                     value="./TeemoCrush/AudioZomjongUndo.wav"></property>
+        <property name="WIN_AUDIO_CUE"                      value="./TeemoCrush/AudioZomjongWin.wav"></property>
+        <property name="LOSS_AUDIO_CUE"                     value="./TeemoCrush/AudioZomjongLoss.wav"></property>
+        <property name="SPLASH_SCREEN_SONG_CUE"             value="./TeemoCrush/AudioZomjongSplashScreenSong.mid"></property>
+        <property name="GAMEPLAY_SONG_CUE"                  value="./TeemoCrush/AudioZomjongInGameSong.mid"></property>        
+    </property_list>
+    <property_options_list>
+        <property_options name="LEVEL_OPTIONS">
+            <option>./zomjong/Coliseum.zom</option>
+            <option>./zomjong/TriPeak.zom</option>
+            <option>./zomjong/Turtle.zom</option>
+            <option>./zomjong/Quilt.zom</option>
+        </property_options>
+        <property_options name="LEVEL_IMAGE_OPTIONS">
+            <option>./zomjong/LevelColiseum.png</option>
+            <option>./zomjong/LevelTriPeak.png</option>
+            <option>./zomjong/LevelTurtle.png</option>
+            <option>./zomjong/LevelQuilt.png</option>
+        </property_options>
+        <property_options name="LEVEL_MOUSE_OVER_IMAGE_OPTIONS">
+            <option>./zomjong/LevelColiseumMouseOver.png</option>
+            <option>./zomjong/LevelTriPeakMouseOver.png</option>
+            <option>./zomjong/LevelTurtleMouseOver.png</option>
+            <option>./zomjong/LevelQuiltMouseOver.png</option>
+        </property_options>
+        <!-- THERE WILL ONLY BE ONE OF EACH OF THESE
+             AND THEY CAN BE MATCHED WITH EACH OTHER -->
+        <property_options name="TYPE_A_TILES">
+            <option>./zomjong/TileDayPlantChomper.png</option>
+            <option>./zomjong/TileDayPlantPeashooter.png</option>
+            <option>./zomjong/TileDayPLantSnowPea.png</option>
+            <option>./zomjong/TileDayPlantSunflower.png</option>
+        </property_options>
+        <!-- THERE WILL ONLY BE ONE OF EACH OF THESE
+             AND THEY CAN BE MATCHED WITH EACH OTHER -->
+        <property_options name="TYPE_B_TILES">
+            <option>./zomjong/TileNightPlantFumeShroom.png</option>
+            <option>./zomjong/TileNightPlantHypnoShroom.png</option>
+            <option>./zomjong/TileNightPlantScaredyShroom.png</option>
+            <option>./zomjong/TileNightPlantSunShroom.png</option>
+        </property_options>
+        <!-- THERE WILL BE FOUR OF EACH OF TEHSE AND
+            THESE CAN ONLY MATCH WITH THEMSELVES -->
+        <property_options name="TYPE_C_TILES">
+            <option>./zomjong/TileZombieBackupDancer.png</option>
+            <option>./zomjong/TileZombieBalloon.png</option>
+            <option>./zomjong/TileZombieBaseball.png</option>
+            <option>./zomjong/TileZombieBobsledTeam.png</option>
+            <option>./zomjong/TileZombieBuckethead.png</option>
+            <option>./zomjong/TileZombieBungee.png</option>
+            <option>./zomjong/TileZombieCatapult.png</option>
+            <option>./zomjong/TileZombieConehead.png</option>
+            <option>./zomjong/TileZombieDancing.png</option>
+            <option>./zomjong/TileZombieDigger.png</option>
+            <option>./zomjong/TileZombieDolphinRider.png</option>
+            <option>./zomjong/TileZombieDrZomboss.png</option>
+            <option>./zomjong/TileZombieDuckyTube.png</option>
+            <option>./zomjong/TileZombieFlag.png</option>
+            <option>./zomjong/TileZombieFootball.png</option>
+            <option>./zomjong/TileZombieGargantuar.png</option>
+            <option>./zomjong/TileZombieGatlingPeaShooter.png</option>
+            <option>./zomjong/TileZombieGigaFootball.png</option>
+            <option>./zomjong/TileZombieGigaGargantuar.png</option>
+            <option>./zomjong/TileZombieImp.png</option>
+            <option>./zomjong/TileZombieJackInTheBox.png</option>
+            <option>./zomjong/TileZombieJalapeno.png</option>
+            <option>./zomjong/TileZombieLadder.png</option>
+            <option>./zomjong/TileZombieNewspaper.png</option>
+            <option>./zomjong/TileZombiePeashooter.png</option>
+            <option>./zomjong/TileZombiePogo.png</option>
+            <option>./zomjong/TileZombiePoleVaulting.png</option>
+            <option>./zomjong/TileZombieScreenDoor.png</option>
+            <option>./zomjong/TileZombieSnorkel.png</option>
+            <option>./zomjong/TileZombieSquash.png</option>
+            <option>./zomjong/TileZombieTarget.png</option>
+            <option>./zomjong/TileZombieTrashCan.png</option>
+            <option>./zomjong/TileZombieYeti.png</option>
+            <option>./zomjong/TileZombieZomboni.png</option>
+        </property_options>
+    </property_options_list>
+</properties>
